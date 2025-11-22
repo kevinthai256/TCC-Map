@@ -1,0 +1,20 @@
+{
+  "short_name": "TCC Map",
+  "name": "TCC Interactive Campus Map",
+  "icons": [
+    {
+      "src": "images/tccLogoNew.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/tccLogoNew.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#003366",
+  "background_color": "#ffffff"
+}
